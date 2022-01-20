@@ -23,6 +23,8 @@ Raymon Anthony Doane: 3.1% (11,606)
 -Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 Diana DeGette won the election with 272,892 Votes and a Winning Percentage of 73.8%.
 
+![Election Results](https://user-images.githubusercontent.com/96347024/150248171-30dcf241-775d-451c-a11b-d5746beae210.jpg)
+
 ## Election Audit Summary
 This script can be used for any election with a few minor modifications.  First, data should be collected and consolidated in the Excel CSV file with the same columns and format (Ballot ID, County, Candidate).  Next, once the information is ready to be evaluated it should be saved over the top of the last election_results.csv file and the Python Script should be run.  Keep in mind it might be worthwhile to save a copy of each election_results.csv with the date of the election added to the file name for backup purposes.
 
